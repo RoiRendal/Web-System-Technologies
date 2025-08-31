@@ -63,16 +63,66 @@
           
             <h1>Anatomy of a Webpage</h1>
             
-            <a href="">Office of Marketing and Communications</a>
-            <a href="">Resources</a>
-            <a href="">Web Authoring</a>
+            <a href="">Office of Marketing and Communications ></a>
+            <a href="">Resources ></a>
+            <a href="">Web Authoring ></a>
             <a href="">Web Content</a>
             
         </section>
         
         <section>
           
-            <p>By Amanda Singleton</p>
+            <p>There are lots of pieces to think about when creating a webpage. Here’s a quick guide to the most basic elements.</p>
+            
+            <ol>
+              
+                <h2><li>Page Title</li></h2>
+                
+                <p>If we’ve done our job well, the page title should tell visitors exactly what they’ll find on the webpage.</p>
+                
+                <ul>
+                    <li>Keep it short Use clear language</li>
+                    <li>Make the first two words count</li>
+                    <li>Avoid internal jargon or acronyms</li>
+                </ul>
+                
+                <h2><li>ID</li></h2>
+                
+                <p>The ID is a label assigned to the webpage that will appear at the end of the url.</p>
+                
+                <ul>
+                    <li>Use hyphens between words.</li>
+                    <li>Never use underscores or other characters.</li>
+                    <li>No capital letters.</li>
+                    <li>Use words that make sense.</li>
+                    <li>In almost every case, your page ID should use words found in your page title.</li>
+                    <li>Don't use obscure acronyms or abbreviations.</li>
+                </ul>
+                
+                <h2><li>Description</li></h2>
+                
+                <p>The description is a one-sentence summary of your page. It’s important to use key words and phrases that you think visitors might be using as search terms.</p>
+                <p>Where your description might show up:</p>
+                
+                <ul>
+                    <li>Google search results page</li>
+                    <li>Facebook, comments threads, or any other website where someone might post a link to your page</li>
+                </ul>
+                
+                <h2><li>Body</li></h2>
+                
+                <p>The body is the bulk of your webpage content. It’s the information you’re providing to help visitors complete their tasks.</p>
+                
+                <ul>
+                    <li>Put your information in priority order with the most important information first.</li>
+                    <li>Use short words, sentences, and paragraphs.</li>
+                    <li>Think about your user first. What is the information that they want to know?</li>
+                    <li>Are you using language that your users understand?</li>
+                    <li>Never use all caps unless it's a predefined style you cannot control. Use bold instead if you're wanting to convey emphasis.</li>
+                </ul>
+                
+            </ol>
+            
             <p>In your home, chances are there are several points people could enter your house from—front doors, back doors, garage doors, windows, and so on—however, your guests probably enter your home from one point more times than all of the others combined.</p>
             <p>That’s how the homepage of your website works, as well—there are several entry points and pages on your website, but more times than not, <a href="">users find your homepage first</a>.</p>
             <p>That’s why on a typical website, the homepage has the most traffic and links pointing to it. That’s because your homepage is the oldest URL on your website, your homepage typically has the most direct visits, and homepages are the most advertised URL for online and offline marketing channels.</p>
