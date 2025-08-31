@@ -9,7 +9,7 @@
 
 <body>
 
-    <!--Website Header-->
+    <!-- Website Header -->
     <header>
         
         <section>       
@@ -27,8 +27,9 @@
         </section>
 
     </header>
+    <!-- Website Header -->
 
-    <!--Website Main-->
+    <!-- Website Main -->
     <main>
         
         <section>
@@ -64,7 +65,7 @@
             <p>You should also recognize that most users who initially visit your website are not ready to buy, which correlates with our previous point of strategy: Have a plan to move users down the funnel, starting with your homepage.</p>
         </section>
         
-        <!--Homepage Best Practices-->
+        <!-- Homepage Best Practices -->
         <section>
             <h1>
                 <li>Homepage Best Practices</li>
@@ -130,22 +131,178 @@
             </article>
 
         </section>
-        <!--Homepage Best Practices-->
+        <!-- Homepage Best Practices -->
 
     </main>
+    <!-- Website Main -->
 
-    <!--Website Footer-->
+    <!-- Website Footer -->
     <footer>
-        <!--Left Section-->
+      
+        <!-- Left Section -->
         <section>
             <a href=""> <img> </a>
         </section>
+        <!-- Left Section -->
         
-        <!--Right Section-->
+        <!-- Right Section -->
         <section>
             
+            <article>
+                
+                <b>HubSpot Services</b>
+                
+                <ul>
+                    <li><a href="">HubSpot Onboarding</a></li>
+                    <li><a href="">HubSpot Admin</a></li>
+                    <li><a href="">Marketing Hub</a></li>
+                    <li><a href="">Sales Hub</a></li>
+                    <li><a href="">Service Hub</a></li>
+                    <li><a href="">Content Hub</a></li>
+                    <li><a href="">Operations Hub</a></li>
+                    <li><a href="">Integrations & Migrations</a></li>
+                    <li><a href="">HubSpot Training</a></li>
+                </ul>
+                  
+            </article>
+                
+            <article>
+              
+                <b>HubSpot Services</b>
+                
+                <ul>
+                    <li><a href="">HubSpot Onboarding</a></li>
+                    <li><a href="">HubSpot Admin</a></li>
+                    <li><a href="">Marketing Hub</a></li>
+                    <li><a href="">Sales Hub</a></li>
+                    <li><a href="">Service Hub</a></li>
+                    <li><a href="">Content Hub</a></li>
+                    <li><a href="">Operations Hub</a></li>
+                    <li><a href="">Integrations & Migrations</a></li>
+                    <li><a href="">HubSpot Training</a></li>
+                    <li><a href="">HubSpot Onboarding</a></li>
+                </ul>  
+                
+            </article>
+            
+            <article>
+              
+                <b>HubSpot Services</b>
+                
+                <ul>
+                    <li><a href="">HubSpot Onboarding</a></li>
+                    <li><a href="">HubSpot Admin</a></li>
+                    <li><a href="">Marketing Hub</a></li>
+                    <li><a href="">Sales Hub</a></li>
+                    <li><a href="">Service Hub</a></li>
+                    <li><a href="">Content Hub</a></li>
+                    <li><a href="">Operations Hub</a></li>
+                    <li><a href="">Integrations & Migrations</a></li>
+                    <li><a href="">HubSpot Training</a></li>
+                    <li><a href="">HubSpot Onboarding</a></li>
+                </ul>  
+                
+            </article>
+            
+            <article>
+              
+                <b>HubSpot Services</b>
+                
+                <ul>
+                    <li><a href="">HubSpot Onboarding</a></li>
+                    <li><a href="">HubSpot Admin</a></li>
+                    <li><a href="">Marketing Hub</a></li>
+                    <li><a href="">Sales Hub</a></li>
+                    <li><a href="">Service Hub</a></li>
+                    <li><a href="">Content Hub</a></li>
+                    <li><a href="">Operations Hub</a></li>
+                    <li><a href="">Integrations & Migrations</a></li>
+                    <li><a href="">HubSpot Training</a></li>
+                    <li><a href="">HubSpot Onboarding</a></li>
+                </ul>  
+                
+            </article>
+            
+            <article>
+              
+                <b>HubSpot Services</b>
+                
+                <ul>
+                    <li><a href="">HubSpot Onboarding</a></li>
+                    <li><a href="">HubSpot Admin</a></li>
+                    <li><a href="">Marketing Hub</a></li>
+                    <li><a href="">Sales Hub</a></li>
+                    <li><a href="">Service Hub</a></li>
+                    <li><a href="">Content Hub</a></li>
+                    <li><a href="">Operations Hub</a></li>
+                    <li><a href="">Integrations & Migrations</a></li>
+                    <li><a href="">HubSpot Training</a></li>
+                    <li><a href="">HubSpot Onboarding</a></li>
+                </ul>  
+                
+            </article>
+            
+            <article>
+              
+                <b>HubSpot Services</b>
+                
+                <ul>
+                    <li><a href="">HubSpot Onboarding</a></li>
+                    <li><a href="">HubSpot Admin</a></li>
+                    <li><a href="">Marketing Hub</a></li>
+                    <li><a href="">Sales Hub</a></li>
+                    <li><a href="">Service Hub</a></li>
+                    <li><a href="">Content Hub</a></li>
+                    <li><a href="">Operations Hub</a></li>
+                    <li><a href="">Integrations & Migrations</a></li>
+                    <li><a href="">HubSpot Training</a></li>
+                    <li><a href="">HubSpot Onboarding</a></li>
+                </ul>  
+                
+            </article>
+            
+            <article>
+              
+                <b>HubSpot Services</b>
+                
+                <ul>
+                    <li><a href="">HubSpot Onboarding</a></li>
+                    <li><a href="">HubSpot Admin</a></li>
+                    <li><a href="">Marketing Hub</a></li>
+                    <li><a href="">Sales Hub</a></li>
+                    <li><a href="">Service Hub</a></li>
+                    <li><a href="">Content Hub</a></li>
+                    <li><a href="">Operations Hub</a></li>
+                    <li><a href="">Integrations & Migrations</a></li>
+                    <li><a href="">HubSpot Training</a></li>
+                    <li><a href="">HubSpot Onboarding</a></li>
+                </ul>  
+                
+            </article>
+            
+            <article>
+              
+                <b>HubSpot Services</b>
+                
+                <ul>
+                    <li><a href="">HubSpot Onboarding</a></li>
+                    <li><a href="">HubSpot Admin</a></li>
+                    <li><a href="">Marketing Hub</a></li>
+                    <li><a href="">Sales Hub</a></li>
+                    <li><a href="">Service Hub</a></li>
+                    <li><a href="">Content Hub</a></li>
+                    <li><a href="">Operations Hub</a></li>
+                    <li><a href="">Integrations & Migrations</a></li>
+                    <li><a href="">HubSpot Training</a></li>
+                    <li><a href="">HubSpot Onboarding</a></li>
+                </ul>  
+                
+            </article>
+            
         </section>
+        <!-- Right Section -->
 
     </footer>
+    <!-- Website Footer -->
 
 </body>
