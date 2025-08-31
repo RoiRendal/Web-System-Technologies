@@ -142,13 +142,30 @@
         <!-- Left Section -->
         <section>
           
+            <!--
+            HubSpot 2024 IMPACT AWARDS
+            PARTNER OF THE YEAR
+            -->
+            <a href=""> <img src="HubSpot.png"> </a>
+            
+            <!-- SmartBug. -->
+            <a href=""> <img src="SmartBug.png"> </a>
+            
             <button><b>Boost Revenue</b></button>
             
-            <a href=""> <img src="linkedin.png"> </a>
-            <a href=""> <img src="youtube.png"> </a>
-            <a href=""> <img src="instagram.png"> </a>
-            <a href=""> <img src="facebook.png"> </a>
-            <a href=""> <img src="pinterest.png"> </a>
+            <button><a href=""> <img src="linkedin.png"> </a></button>
+            <button><a href=""> <img src="youtube.png"> </a></button>
+            <button><a href=""> <img src="instagram.png"> </a></button>
+            <button><a href=""> <img src="facebook.png"> </a></button>
+            <button><a href=""> <img src="pinterest.png"> </a></button>
+            
+            <p>© 2025 SmartBug Media, Inc., a full-service digital agency.</p>
+            
+            <nav>
+                <a href="">Privacy</a>
+                <a href="">Terms</a>
+                <a href="">HIPAA</a>
+            </nav>
             
         </section>
         <!-- Left Section -->
