@@ -63,7 +63,8 @@
             <p>As you <a href="">design your website</a>, remember that most conversions start with the homepage. First impressions are typically made within in seconds—that’s how long you have to catch a visitor’s eye with a captivating headline and call to action. If you aren’t able to grab users’ attention within a small time frame, chances are they’ll leave.</p>
             <p>You should also recognize that most users who initially visit your website are not ready to buy, which correlates with our previous point of strategy: Have a plan to move users down the funnel, starting with your homepage.</p>
         </section>
-
+        
+        <!--Homepage Best Practices-->
         <section>
             <h1>
                 <li>Homepage Best Practices</li>
@@ -129,6 +130,7 @@
             </article>
 
         </section>
+        <!--Homepage Best Practices-->
 
     </main>
 
