@@ -4,7 +4,7 @@
 <head>
     <meta charset = "UTF-8">
     <meta name = "viewport" content = "width=device-width, initial-scale=1.0">
-    <title>SmartBug</title>
+    <title>Bethel University</title>
 </head>
 
 <body>
@@ -14,21 +14,42 @@
         
         <section>
           
-            <!-- SmartBug. -->
-            <a href=""> <img src="SmartBug.png"> </a>
+            <!-- BETHEL UNIVERSITY -->
+            <a href=""> <img src="BETHELUNIVERSITY.png"> </a>
             
         </section>
 
         <section>
             
-            <p>HubSpot Services</p>
-            <p>AI & Tech Services</p>
-            <p>Industries</p>
-            <p>Work & Awards</p>
-            <p>About</p>
-            <p>Resources</p>
+            <article>
+              
+                <div>
+                    <a href="">MyBethel</a>
+                    <a href="">Offices</a>
+                    <a href="">News</a>
+                    <a href="">Events</a>
+                    <a href="">Blog</a>
+                </div>
+              
+                <div>
+                    <a href="">Apply</a>
+                    <a href="">Visit</a>
+                    <a href="">Give</a>
+                    <a href=""> <img src="search.icon.png"> </a>
+                </div>
+                
+            </article>
             
-            <button> <a href="">Let's Talk</a> </button>
+            <article>
+              
+                <a href="">About</a>
+                <a href="">Admissions & Aid</a>
+                <a href="">Academics</a>
+                <a href="">Student Life</a>
+                <a href="">Athletics</a>
+                <a href="">Faith</a>
+                
+            </article>
             
         </section>
 
