@@ -121,6 +121,19 @@
                     <li>Never use all caps unless it's a predefined style you cannot control. Use bold instead if you're wanting to convey emphasis.</li>
                 </ul>
                 
+                <h2><li>Headings</li></h2>
+                
+                <p>Headings help users scan and find information quickly so they can assess if they're in the right place.</p>
+                
+                <ul>
+                    <li>Accurately describe the information in the section.</li>
+                    <li>Be clear and concrete.</li>
+                    <li>Use key terms or phrases that are relevant for users.</li>
+                    <li>Use powerful and active words</li>
+                </ul>
+                
+                <p>When formatting your headings, use H2 for main headings and H3 for subheadings. Re-evaluate your content if you're needing H4 because your page can get messy in a hurry.</p>
+                
             </ol>
             
             <p>In your home, chances are there are several points people could enter your house from—front doors, back doors, garage doors, windows, and so on—however, your guests probably enter your home from one point more times than all of the others combined.</p>
