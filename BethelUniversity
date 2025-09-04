@@ -291,6 +291,30 @@
             </ol>
             
         </section>
+        
+        <section>
+            
+            <!-- Upper Section -->
+            <article>
+                
+                <img src="job.png">
+                
+            </article>
+            <!-- Upper Section -->
+            
+            <!-- Lower Section -->
+            <article>
+              
+                <h2>Open a Job</h2>
+                
+                <p>Great work starts with great input! Get started by opening a job with us.</p>
+                
+                <button><a href=""><h2>Open a Job</h2></a></button>
+                
+            </article>
+            <!-- Lower Section -->
+            
+        </section>
 
     </main>
     <!-- Website Main -->
