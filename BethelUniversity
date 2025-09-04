@@ -142,11 +142,70 @@
                     <li>Start with a capital letter.</li>
                     <li>Place a period at the end of complete sentences.</li>
                     <li>Use parallel language for list items (all fragments, all complete sentences, all questions, etc.).</li>
-                    <li>Use parallel language for list items (all fragments, all complete sentences, all questions, etc.).</li>
+                    <li>Use numbers if you’re outlining a process or concrete steps that a visitor needs to take.</li>
                     <li>Visitors usually only see the first 2 words for each list item, so make those first 2 words meaningful.</li>
                 </ul>
                 
                 <p>When formatting your headings, use H2 for main headings and H3 for subheadings. Re-evaluate your content if you're needing H4 because your page can get messy in a hurry.</p>
+                
+                <h2><li>Bold, Italics, and Underline</li></h2>
+                
+                <p>On the web, bold, italics, and underline each have a unique purpose.</p>
+                
+                <b><p>Bold</p></b>
+                
+                <p>Use bold for highlighting important info, such as an application deadline or fee. You can also use bold for key introductory phrases of bulleted lists.</p>
+
+                <p>Words of advice: if bold is overused, it’s no longer helpful. When too much is emphasized nothing stands out.</p>
+
+                <b><p>Italics</p></b>
+                
+                <p>Use italics according to the <a href = "">Bethel Style Guide</a>:</p>
+                
+                <ul>
+                    <li>Book titles</li>
+                    <li>Movie titles</li>
+                    <li>Titles of newspapers or publications</li>
+                    <li>Other items as noted in the style guide</li>
+                    <li>Visitors usually only see the first 2 words for each list item, so make those first 2 words meaningful.</li>
+                </ul>
+                
+                <p>Italics can also be used to consistently format a repeated piece of minor information.</p>
+
+                <p>Examples:</p>
+                
+                <ul>
+                    <li>Room locations on schedule of events for a conference</li>
+                    <li>Job titles on a staff list</li>
+                </ul>
+                
+                <b><p>Underline</p></b>
+                
+                <p>Never underline text on the web. Visitors will mistake underlined text for a link. This leads to confusion and reduces the impact of what you were trying to highlight. Use bold for emphasis instead.</p>
+                
+                <h2><li>Links</li></h2>
+                
+                <p>Hyperlink meaningful phrases rather than single words or words that lack context.</p>
+                
+                <ul>
+                    <li>Phrases are easier to spot.</li>
+                    <li>Meaningful words help search engines scan and pick up useful information.</li>
+                    <li>Avoid using "here" and "click here."</li>
+                </ul>
+                
+                <p>Alert visitors when links will lead them to a document instead of a webpage by adding the appropriate tag at the end of the link:</p>
+                
+                <ul>
+                    <li>Bethel Undergraduate Catalog (pdf)</li>
+                    <li>Bethel Style Guide (doc)</li>
+                    <li>Bethel Expense Report (xls)</li>
+                </ul>
+                
+                <h2><li>Call to Action</li></h2>
+                
+                <p>Nearly all webpages should provide visitors with a call to action. What do we want them to do with this information? What task have they come to perform?</p>
+
+                <p>It’s helpful to always give visitors a place to go from each webpage that’s related to the task at hand.</p>
                 
             </ol>
             
@@ -157,111 +216,6 @@
             
         </section>
 
-        <section>
-          
-            <h2>The Purpose of Optimizing Your Homepage</h2>
-            
-            <p>Overall, the purpose of your website is to market your products or services and turn website visitors into leads and, eventually, customers—and your homepage is no different. It should be easy to navigate, easy to understand, and offers your personas information on what they are searching for.</p>
-            <p>In essence, your homepage should answer the question, “Can I help you find what you’re looking for?” You want to help the visitor get from your homepage to page two, because then, they’ve expressed what they are interested in knowing more about.</p>
-            
-        </section>
-
-        <section>
-          
-            <h1>Before Your Start Designing, Remember...</h1>
-            
-            <p>Clearly define goals and strategies for what you want your homepage to accomplish for your company first. These goals could include defining what your website is about and what you want the action step to be for users that visit your homepage.</p>
-            <p>Be sure to associate numbers with your goals. For example, you may want to have a 45 percent click-through rate on your top-of-the-funnel call to action with a 25 percent conversion rate on the associated landing page. Without clearly defined strategies and goals, your homepage can become a jumbled mess that users bounce from quickly.</p>
-            <p>As you <a href="">design your website</a>, remember that most conversions start with the homepage. First impressions are typically made within in seconds—that’s how long you have to catch a visitor’s eye with a captivating headline and call to action. If you aren’t able to grab users’ attention within a small time frame, chances are they’ll leave.</p>
-            <p>You should also recognize that most users who initially visit your website are not ready to buy, which correlates with our previous point of strategy: Have a plan to move users down the funnel, starting with your homepage.</p>
-            
-        </section>
-        
-        <!-- Homepage Best Practices -->
-        <section>
-          
-            <h2>Homepage Best Practices</h2>
-
-            <article>
-                <ol>
-
-                    <li><h3>State Your Value Proposition</h3></li>                
-                
-                <ul>
-                    <li>What is this product or service?</li>
-                    <li>When I'm on this website, where should I go first?</li>
-                    <li>Does the website help solve any problems for me?</li>
-                    <li>Why should I choose this product/service over any others to solve my problems?</li>
-                </ul>
-
-                    <li><h3>Design and Copy</h3></li>
-                
-                <p>Cater to the audience you are trying to attract:</p>
-
-                <ul>
-                    <li>Define your persona's pain points</li>
-                    <li>Offer solutions</li>
-                    <li>Adjust the content of your website to be more personalized and relevant</li>
-                </ul>
-
-                    <li><h3>Navigation</h3></li>
-                
-                <p>Navigation is the most essential aspect. When visitors land on your website, they will often head to the navigation first to find what they need. Here are some tips to keep in mind.</p>
-
-                <ul>
-                    <li>User-friendly</li>
-                    <li>Limit the number of top-level navigation items</li>
-                    <li>Keep dropdown menus to one level</li>
-                </ul>
-
-                    <li><h3>Calls to Action</h3></li>
-                
-                <p>Help move website visitors down the funnel in their buying process with the following <a href="">CTAs</a>:</p>
-
-                <ul>
-                    <li>Awareness CTAs: These calls to action should link to a landing page offering a piece of content that helps your website visitor gain more information on a certain topic.</li>
-                    <li>Consideration CTAs: These CTAs generally link to pieces of content that help solve problems that your website visitors have already defined.</li>
-                    <li>Decision CTAs: Decision CTAs link to something such as demo or a free trial of a product or service.</li>
-                </ul>
-
-                <p>CTA placement is also important on your homepage. Your primary CTA should be "above the fold." This just means that your homepage visitors should be able to see the CTA without scrolling down the page.</p>
-
-                    <li><h3>Link to Popular Content</h3></li>
-                
-                <p>Build trust and credibility with your visitors by linking to popular content on your homepage. This will also improve the amount of interaction between website pages.</p>
-                
-                    <li><h3>Colors</h3></li>
-                
-                <p>Pick two to four colors for your website and marketing materials and not deviate from those. A simple, elegant color scheme goes a long way. in your homepage design.</p>
-                
-                    <li><h3>Responsive</h3></li>
-                
-                <p>A website that is designed to adapt to whatever device a visitor is using allows for easy reading and scrolling without constantly adjusting your screen.</p>
-                
-                </ol>
-            </article>
-
-        </section>
-        <!-- Homepage Best Practices -->
-        
-        <section>
-          
-            <h2>Examples of Great Homepages</h2>
-            <p>Need a little inspiration for your homepage? Check out these examples.</p>
-            
-            <ul>
-                <a href=""> <li>Adversus</li> </a>
-                <a href=""> <li>Corporate Screening</li> </a>
-                <a href=""> <li>Service Fusion</li> </a>
-                <a href=""> <li>DISC Sports & Spine Center</li> </a>
-                <a href=""> <li>Yousign</li> </a>
-                <a href=""> <li>Zenefits</li> </a>
-            </ul>
-            
-            <p>This post was originally published in 2015 and has been updated since.</p>
-          
-        </section>
-
     </main>
     <!-- Website Main -->
 
@@ -270,161 +224,12 @@
       
         <!-- Left Section -->
         <section>
-          
-            <!--
-            HubSpot 2024 IMPACT AWARDS
-            PARTNER OF THE YEAR
-            -->
-            <a href=""> <img src="HubSpot.png"> </a>
-            
-            <!-- SmartBug. -->
-            <a href=""> <img src="SmartBug.png"> </a>
-            
-            <button><b>Boost Revenue</b></button>
-            
-            <button><a href=""> <img src="linkedin.png"> </a></button>
-            <button><a href=""> <img src="youtube.png"> </a></button>
-            <button><a href=""> <img src="instagram.png"> </a></button>
-            <button><a href=""> <img src="facebook.png"> </a></button>
-            <button><a href=""> <img src="pinterest.png"> </a></button>
-            
-            <p>© 2025 SmartBug Media, Inc., a full-service digital agency.</p>
-            
-            <nav>
-                <a href="">Privacy</a>
-                <a href="">Terms</a>
-                <a href="">HIPAA</a>
-            </nav>
             
         </section>
         <!-- Left Section -->
         
         <!-- Right Section -->
         <section>
-            
-            <article>
-                
-                <b>HubSpot Services</b>
-                
-                <ul>
-                    <li><a href="">HubSpot Onboarding</a></li>
-                    <li><a href="">HubSpot Admin</a></li>
-                    <li><a href="">Marketing Hub</a></li>
-                    <li><a href="">Sales Hub</a></li>
-                    <li><a href="">Service Hub</a></li>
-                    <li><a href="">Content Hub</a></li>
-                    <li><a href="">Operations Hub</a></li>
-                    <li><a href="">Integrations & Migrations</a></li>
-                    <li><a href="">HubSpot Training</a></li>
-                </ul>
-                  
-            </article>
-                
-            <article>
-              
-                <b>About</b>
-                
-                <ul>
-                    <li><a href="">Our Story</a></li>
-                    <li><a href="">Meet the Team</a></li>
-                    <li><a href="">Partnerships</a></li>
-                    <li><a href="">Events</a></li>
-                    <li><a href="">Press</a></li>
-                    <li><a href="">Careers</a></li>
-                    <li><a href="">SmartBug Culture</a></li>
-                    <li><a href="">SmartBug Palooza</a></li>
-                    <li><a href="">Our Core Values</a></li>
-                </ul>  
-                
-            </article>
-            
-            <article>
-              
-                <b>AI & Tech Services</b>
-                
-                <ul>
-                    <li><a href="">AI Agents & Development</a></li>
-                    <li><a href="">Website Development</a></li>
-                    <li><a href="">E-commerce</a></li>
-                    <li><a href="">Web Apps</a></li>
-                    <li><a href="">Integrations & Migrations</a></li>
-                </ul>  
-                
-            </article>
-            
-            <article>
-              
-                <b>Platforms</b>
-                
-                <ul>
-                    <li><a href="">WordPress</a></li>
-                    <li><a href="">Craft CMS</a></li>
-                    <li><a href="">Magento / Adobe Commerce</a></li>
-                    <li><a href="">Shopify</a></li>
-                    <li><a href="">HubSpot</a></li>
-                </ul>  
-                
-            </article>
-            
-            <article>
-              
-                <b>Solutions</b>
-                
-                <ul>
-                    <li><a href="">Demand Generation</a></li>
-                    <li><a href="">Sales Enablement</a></li>
-                    <li><a href="">Paid Media</a></li>
-                    <li><a href="">Revenue Operations</a></li>
-                    <li><a href="">Customer Success</a></li>
-                </ul>  
-                
-            </article>
-            
-            <article>
-              
-                <b>Industries</b>
-                
-                <ul>
-                    <li><a href="">Healthcare</a></li>
-                    <li><a href="">Senior Living</a></li>
-                    <li><a href="">Manufacturing</a></li>
-                    <li><a href="">SaaS</a></li>
-                    <li><a href="">Finance</a></li>
-                    <li><a href="">Franchise</a></li>
-                    <li><a href="">Education</a></li>
-                </ul>  
-                
-            </article>
-            
-            <article>
-              
-                <b>Work & Awards</b>
-                
-                <ul>
-                    <li><a href="">Case Studies</a></li>
-                    <li><a href="">Portfolio</a></li>
-                    <li><a href="">Client Testimonials</a></li>
-                    <li><a href="">Awards</a></li>
-                    <li><a href="">Press</a></li>
-                </ul>  
-                
-            </article>
-            
-            <article>
-              
-                <b>Resources</b>
-                
-                <ul>
-                    <li><a href="">Articles</a></li>
-                    <li><a href="">E-Books</a></li>
-                    <li><a href="">Templates</a></li>
-                    <li><a href="">Webinars</a></li>
-                    <li><a href="">Podcasts</a></li>
-                    <li><a href="">Bootcamps</a></li>
-                    <li><a href="">Assessments</a></li>
-                </ul>  
-                
-            </article>
             
         </section>
         <!-- Right Section -->
