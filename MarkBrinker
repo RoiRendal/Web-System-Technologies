@@ -667,9 +667,23 @@
         <!-- Lower Section -->
         <section>
             
-            <p>© 2025 Bethel University | <a href="">CA Student Disclosures</a> | <a href="">Privacy Policy</a></p>
+            <article>
+              
+              <p>Copyright 2025</p>
+              
+            </article>
             
-            <p>Bethel University’s Christ-centered mission includes a commitment to equal educational opportunity and equal employment opportunity. Bethel does not unlawfully discriminate on the basis of race, color, creed, national origin, sex, marital status, disability, status with regard to public assistance, familial status, or age in its admissions, educational programs, or employment practices.</p>
+            <article>
+              
+              <nav>
+                
+                <a href="">Mark Brinker & Associates</a>
+                <a href="">Privacy Policy</a>
+                <a href="">Terms Of Use</a>
+                
+              </nav>
+              
+            </article>
             
         </section>
         <!-- Lower Section -->
