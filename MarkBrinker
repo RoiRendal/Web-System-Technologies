@@ -103,6 +103,217 @@
         
         <section>
           
+          <h3>Favicon</h3>
+          
+          <p>A favicon is the small icon that appears in a browser tab next to your website title. It’s usually a simplified version of your logo or brand mark. Favicons help visitors quickly identify your website when they have multiple tabs open, and they add a polished, professional look to your site.</p>
+
+        </section>
+        
+        <section>
+          
+          <h3>Navigation (aka Navigation Bar or Main Menu)</h3>
+          
+          <p>The navigation is the set of links at the top of a website that helps visitors find what they’re looking for. These links are usually part of the header or located just below it.</p>
+
+          <img src="sample-navigation.png">
+                    
+          <p>On mobile devices, navigation links often transform into an icon with three stacked lines—commonly called a “hamburger” menu because it resembles a side view of a hamburger. Tapping this icon reveals a vertical toggle or horizontal flyout menu, making it easy to browse even on smaller screens.</p>
+
+          <img src="sample-navigation-mobile.png">
+          
+          <p>For more complex websites with tons of pages, you might encounter a “mega menu.” This is a dropdown menu that appears when you hover over or click a link in the main navigation. It displays multiple categories and subcategories, neatly organizing many links—kind of like a visual sitemap.</p>
+
+          <img src="sample-navigation2.png">  
+                     
+        </section>
+        
+        <section>
+          
+          <h3>Breadcrumbs</h3>
+          
+          <p>Breadcrumbs are a type of navigation that shows visitors their location within a website’s hierarchy. They usually appear near the top of the page and look something like this:</p>
+
+          <p><i>Home > Blog > Latest Posts > Post Title</i></p>
+          
+          <p>Breadcrumbs make it easy for visitors to understand where they are on your site and quickly backtrack to previous pages. They’re especially helpful for larger websites with lots of categories and subpages.</p>
+
+        </section>
+        
+        <section>
+          
+          <h3>Website Content</h3>
+          
+          <p>When it comes to written text, you’ll often hear it called web copy or body copy, but website content goes beyond just words.</p>
+
+          <p>Website content is <b>everything</b> on your site that communicates your message to visitors. It includes all the elements people interact with—text, images, videos, audio, and more. It’s the full collection of materials designed to inform, engage, or persuade your audience—the whole package, or as some might say, the whole shebang.</p>
+
+        </section>
+        
+        <section>
+          
+          <h3>Homepage (or home page)</h3>
+          
+          <p>The <a href="">homepage</a> — also called the front page or main page — is the starting point of most websites. It’s often the first page visitors see and serves as a central hub to guide them through your site.</p>
+
+          <p>The homepage sets the tone for the entire website, giving visitors a quick sense of who you are, what you do, and where they should go next. It’s like the front door to your business online.</p>
+
+          <p>Common elements on a home page include:</p>
+
+          <ul>
+            
+            <li>A hero area (headline and image) to grab attention.</li>
+            <li>A navigation menu to help visitors find key pages.</li>
+            <li>Links or sections highlighting your most important content, services, or calls to action.</li>
+            
+          </ul>
+
+          <p>A common website design best practice is to link your logo to the home page. This gives visitors an easy “escape” or “reset” if they ever get lost while navigating your site.</p>
+
+        </section>
+        
+        <section>
+          
+          <h3>Homepage Hero Area (aka Feature Area aka Headline Area)</h3>
+          
+          <p>The Homepage Hero Area is the top section of a homepage that grabs your attention and introduces the site’s primary message. It often spans the full width of the page and typically includes key elements like:</p>
+
+          <ul>
+            
+            <li>A headline that clearly communicates the site’s purpose or the problem it solves.</li>
+            <li>A sub-headline that adds supporting details or context.</li>
+            <li>A call-to-action button to encourage visitors to take their next step, such as scheduling a consultation or exploring services.</li>
+            <li>A visual element, such as an image, graphic, or video, that enhances the message and creates visual interest.</li>
+            
+          </ul>
+
+          <img src="sample-feature-area.png">
+
+          <p>The term “hero” comes from traditional print media, where it referred to the main headline and image meant to grab attention. In web design, the hero area serves a similar purpose: to create an immediate and lasting impression.</p>
+
+        </section>
+        
+        <section>
+          
+          <h3>Slider</h3>
+          
+          <p>A slider is a feature on a website that displays a rotating series of images, like a slideshow. The images usually slide horizontally from one to the next, though some sliders use fade effects instead.</p>
+
+          <img src="sample-slider.gif">
+
+          <p>You’ll most often find sliders on homepages, either as a replacement for a hero image or as an additional design element.</p>
+
+          <p>While sliders used to be a common design trend, their popularity has decreased in recent years. because they can slow down your site’s load time and don’t always offer the best experience for mobile users. Although sliders can add some visual interest, sliders are often more decorative than practical.</p>
+
+        </section>
+        
+        <section>
+          
+          <h3>Website Content</h3>
+          
+          <p>When it comes to written text, you’ll often hear it called web copy or body copy, but website content goes beyond just words.</p>
+
+          <p>Website content is everything on your site that communicates your message to visitors. It includes all the elements people interact with—text, images, videos, audio, and more. It’s the full collection of materials designed to inform, engage, or persuade your audience—the whole package, or as some might say, the whole shebang.</p>
+
+        </section>
+        
+        <section>
+          
+          <h3>Alt Text</h3>
+          
+          <p>Alt text (short for “alternative text”) is a brief description added to images on a website. It serves two main purposes:</p>
+          
+          <ol>
+            
+            <li>It makes websites more accessible by describing images to visually impaired users who rely on screen readers.</li>
+            <li>It helps search engines understand what an image is about, which can improve your website’s SEO.</li>
+            
+          </ol>
+          
+          <p>For example, if you have an image of an office space, instead of leaving it without a description, you might add alt text like: <i>“Photo of a modern office space with large windows and desks.”</i></p>
+          
+        </section>
+        
+        <section>
+          
+          <h3>Sidebar</h3>
+          
+          <p>A sidebar is the narrow vertical column that appears alongside your main website content. It’s often used to display things like advertisements, links to other content, calls to action, or a search box. Think of it as a supporting area for secondary information that complements the primary content.</p>
+          
+          <p>In recent years, many websites have moved away from using sidebars altogether, opting instead for a single, full-width layout. For some websites, removing the sidebar makes sense; for others, it doesn’t. The decision really comes down to personal preference, the user experience you want to create, and which layout (sidebar vs. no sidebar) works better for your goals—like improving readability or increasing conversions.</p>
+          
+          <img src="sample-sidebar.png">
+          
+        </section>
+        
+        <section>
+          
+          <h3>Sub-Footer</h3>
+          
+          <p>The sub-footer is the section that appears at the bottom of a webpage—just above the main footer—and is consistent across your site. Think of it as a secondary navigation bar that provides additional points of access or contact details once visitors have scrolled through the primary content. While its content varies by site, a sub-footer typically includes elements such as:</p>
+          
+          <ul>
+            
+            <li><b>Quick Contact Information:</b> Displaying addresses or phone numbers for immediate reference.</li>
+            <li><b>Supplementary Navigation Links:</b> Offering shortcuts to key pages like “About Us,” “Services,” or even “Our Locations.”</li>
+            <li><b>Social Media Icons:</b> Allowing visitors easy access to your social profiles. Allowing visitors easy access to your social profiles.</li>
+            <li><b>Additional Resources:</b> This might include links to site maps or ancillary informational pages.</li>
+            
+          </ul>
+          
+          <p>The sub-footer is designed to serve as an added layer of user convenience, enriching the overall navigation experience without being as formal as the main footer.</p>
+          
+          <img src="sample-sub-footer.png">
+          
+        </section>
+        
+        <section>
+          
+          <h3>Footer (The "True" Footer)</h3>
+          
+          <p>The footer is the final, definitive section at the very bottom of a webpage. It typically contains essential legal, informational, and administrative details that are less frequently updated but are critical for compliance and user trust. Common footer contents include:</p>
+          
+          <ul>
+            
+            <li><b>Copyright and Legal Disclaimers:</b> Noting trademark rights and the copyright year.</li>
+            <li><b>Policy Links:</b> Links to the privacy policy, terms of use, and any other legal information.</li>
+            <li><b>Site Map:</b> A detailed breakdown of the website’s structure for improved navigation and SEO.</li>
+            
+          </ul>
+          
+          <p>This section is static across the entire site and represents the definitive end point of your webpage content.</p>
+          
+          <img src="sample-footer.png">
+          
+          <p><b><mark>Note</mark>:</b> Although many people refer to both areas (i.e. sub-footer and footer) as the “footer,” they're actually two different things. The sub-footer typically contains secondary navigation and quick-access details, whereas the "true" footer is reserved for legal and administrative information.</p>
+          
+        </section>
+        
+        <section>
+          
+          <h3>Landing Page</h3>
+          
+          <p>A landing page is a specific page on your website where visitors “land” after clicking on an ad—whether it’s from Google, Facebook, or anywhere else.</p>
+          
+          <p>Landing pages are designed differently than regular website pages. Distractions like headers, footers, and sidebars are often removed or minimized to keep visitors focused.</p>
+          
+          <p>The main goal of a landing page is to get the visitor to take a specific action—like downloading a report, signing up for an email list, or making a purchase. To maximize conversions, the content on a landing page is laser-focused, guiding visitors toward that single objective.</p>
+          
+          <p>Here's a <a href="">landing page example</a>.</p>
+          
+        </section>
+        
+        <section>
+          
+          <h3>Call To Action (aka CTA)</h3>
+          
+          <p>A call to action (or CTA) is a specific and direct request asking visitors to take a desired action. CTAs can take many forms: buttons, popups, ribbons, slide-ins, email opt-in boxes, or even a simple text link.</p>
+          
+          <p>A good call to action doesn’t have to be pushy or over-the-top. Sometimes a simple “click here” or “learn more” works perfectly. The key is to gently nudge your visitors toward the next step you want them to take—whether that’s signing up, making a purchase, or contacting you.</p>
+          
+        </section>
+        
+        <section>
+          
             <article>
               
                 <p>There are lots of pieces to think about when creating a webpage. Here’s a quick guide to the most basic elements.</p>
