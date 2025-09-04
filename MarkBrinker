@@ -4,7 +4,7 @@
 <head>
     <meta charset = "UTF-8">
     <meta name = "viewport" content = "width=device-width, initial-scale=1.0">
-    <title>Bethel University</title>
+    <title>Mark Brinker</title>
 </head>
 
 <body>
@@ -15,44 +15,30 @@
         <!-- Left Section -->
         <section>
           
-            <!-- BETHEL UNIVERSITY -->
-            <a href=""> <img src="BETHELUNIVERSITY.png"> </a>
+            <!-- MarkBrinker -->
+            <a href=""> <img src="MarkBrinker.png"> </a>
             
         </section>
         <!-- Left Section -->
 
         <!-- Right Section -->
         <section>
+              
+            <a href=""><h2>About</h2></a>
+            
+            <a href=""><h2>Blog</h2></a>
             
             <article>
               
-                <div>
-                    <a href="">MyBethel</a>
-                    <a href="">Offices</a>
-                    <a href="">News</a>
-                    <a href="">Events</a>
-                    <a href="">Blog</a>
-                </div>
-              
-                <div>
-                    <a href="">Apply</a>
-                    <a href="">Visit</a>
-                    <a href="">Give</a>
-                    <a href=""> <img src="search.icon.png"> </a>
-                </div>
+                <h2>Services</h2> <button></button>
                 
             </article>
             
-            <article>
-              
-                <a href="">About</a>
-                <a href="">Admissions & Aid</a>
-                <a href="">Academics</a>
-                <a href="">Student Life</a>
-                <a href="">Athletics</a>
-                <a href="">Faith</a>
-                
-            </article>
+            <a href=""><h2>Portfolio</h2></a>
+            
+            <a href=""><h2>Why No One's Calling</h2></a>
+            
+            <a href=""><button>Work With Us</button></a>
             
         </section>
         <!-- Right Section -->
@@ -63,53 +49,57 @@
     <!-- Website Main -->
     <main>
         
+        <h1>Parts Of A Website: A Cheat Sheet For Non-Techies</h1>
+        
         <section>
           
-            <h1>Anatomy of a Webpage</h1>
-            
-            <a href="">Office of Marketing and Communications ></a>
-            <a href="">Resources ></a>
-            <a href="">Web Authoring ></a>
-            <a href="">Web Content</a>
-            
+          <img src="Mark-Brinker.png">
+          
+          <p>By <a href="">Mark Brinker</a> / Updated: May 20, 2025</p>
+          
         </section>
         
-        <!-- Side Navigation -->
+        <img src="Technology.png">
+        
         <section>
           
-            <!-- Upper Section -->
-            <article>
-                
-                <h2>Office of Marketing and Communications</h2>
-                
-            </article>
-            <!-- Upper Section -->
-            
-            <!-- Lower Section -->
-            <article>
-                
-                <ul>
-                    <li><a href="">Home</a></li>
-                    <li><a href=""><button></button> Services</a></li>
-                    <li><a href=""><button></button> Resources</a></li>
-                        <ul>
-                            <li><a href=""><button></button> The Bethel University and Seminary Logo and Identity</a></li>
-                            <li><a href=""><button></button> Web Authoring</a></li>
-                            <ul>
-                                <li><a href=""><button></button> Email</a></li>
-                                <li><a href="">Web Content</a></li>
-                                <li><a href="">Rules for Web & Email Writers</a></li>
-                            </ul>
-                        </ul>
-                    <li><a href=""><button></button> Contact Us</a></li>
-                    <li><a href="">Student Employment Opportunities</a></li>
-                </ul>
-                
-            </article>
-            <!-- Lower Section -->
-            
+          <p>Confused by website terminology?</p>
+          
+          <p>If so, here’s a handy glossary (all in plain English) that’ll quickly get you up to speed and demystify the language of web technology.</p>
+          
+          <p>Once you understand basic website jargon, you’ll never get intimidated or befuddled the next time a web designer or web developer spews techno-babble.</p>
+          
         </section>
-        <!-- Side Navigation -->
+        
+        <section>
+          
+          <h2>Basic Anatomy Of A Website</h2>
+          
+          <p>Let’s start by defining the various parts of a website:</p>
+          
+        </section>
+        
+        <section>
+          
+          <h3>Header</h3>
+          
+          <p>The header is the top section of a website, where you’ll usually find the logo and the site’s navigation menu. It’s that steady, reliable part of the page that stays visible no matter where visitors click on your site.</p>
+
+          <p>Years ago, headers often featured big banners or graphics to promote a brand—similar to the cover photo on a Facebook page. But these days, the trend is to keep things simple, with just a logo, navigation, and possibly a call-to-action button to keep your website looking clean and modern.</p>
+          
+          <img src="sample-header.png">
+                    
+        </section>
+        
+        <section>
+          
+          <h3>Pre-Header</h3>
+          
+          <p>The pre-header is the thin strip that sits above the main header. It’s often used to display helpful information like your contact details, business hours, special offers, or even secondary navigation links. Think of it as a small but mighty space for quick-access details that your visitors might appreciate seeing right away.</p>
+
+          <img src="sample-pre-header.png">
+                    
+        </section>
         
         <section>
           
