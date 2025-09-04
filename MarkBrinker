@@ -314,6 +314,61 @@
         
         <section>
           
+          <h3>Above the Fold</h3>
+          
+          <p>“Above the fold” refers to the part of a webpage you immediately see before you start scrolling. Placing your call-to-action (CTA) above the fold ensures visitors see it right away, increasing the likelihood they’ll take action—like clicking a button or filling out a form.</p>
+          
+          <p>The term “above the fold” comes from the newspaper industry, where the most important headlines and images were placed on the top half of a folded newspaper to grab readers’ attention with a quick glance — like when they walk past a newsstand.</p>
+          
+        </section>
+        
+        <section>
+          
+          <h3>Blog</h3>
+          
+          <p>A blog is a type of website—or a section of a larger website—that features content published as individual posts in chronological order, like journal entries in a diary.</p>
+          
+          <p>So what’s the difference between a blog and a standard website? It comes down to how the content is structured and presented:</p>
+          
+          <ul>
+            
+            <li>Blog posts are organized chronologically, often allowing for reader interactivity through comments.</li>
+            <li>Web pages (like the homepage, about page, or contact page) are static, not time-based, and don’t typically include comments.</li>
+            
+          </ul>
+          
+          <p>Blogs also tend to have a more casual, conversational tone compared to standard web pages, which are usually more formal and informational, focusing on products, services, or company details.</p>
+          
+          <p>A blog can stand alone as its own website, or it can live as a section within a larger website—just like this blog post you’re reading right now.</p>
+          
+          <p>For more info on the similarities and differences between a blog and a website, <a href="">check out my video</a> on my YouTube channel.</p>
+          
+        </section>
+        
+        <section>
+          
+          <h3>Card Design (aka Tile Design or Grid-Based Design)</h3>
+          
+          <p>Card design organizes content into visually distinct “cards” or tiles, often arranged in a grid layout. Popularized by sites like Pinterest, this design style is clean, easy to scan, and works well on both desktop and mobile devices.</p>
+          
+          <p>Card design can be used in a variety of ways:</p>
+          
+          <ul>
+            
+            <li><b>Image galleries</b></li>
+            <li><b>Blog pages</b> to showcase multiple posts</li>
+            <li><b>Sales pages</b> to highlight features, benefits, or services</li>
+            
+          </ul>
+          
+          <p>It’s a flexible, visually appealing way to present information. With a little creativity, the possibilities are endless.</p>
+          
+          <img src="sample-card-design.png">
+          
+        </section>
+        
+        <section>
+          
             <article>
               
                 <p>There are lots of pieces to think about when creating a webpage. Here’s a quick guide to the most basic elements.</p>
