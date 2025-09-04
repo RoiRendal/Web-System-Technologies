@@ -318,7 +318,7 @@
           
           <p>“Above the fold” refers to the part of a webpage you immediately see before you start scrolling. Placing your call-to-action (CTA) above the fold ensures visitors see it right away, increasing the likelihood they’ll take action—like clicking a button or filling out a form.</p>
           
-          <p>The term “above the fold” comes from the newspaper industry, where the most important headlines and images were placed on the top half of a folded newspaper to grab readers’ attention with a quick glance — like when they walk past a newsstand.</p>
+          <p>The term “above the fold” comes from the <b>newspaper</b> industry, where the most important headlines and images were placed on the top half of a folded newspaper to grab readers’ attention with a quick glance — like when they walk past a newsstand.</p>
           
         </section>
         
@@ -408,7 +408,7 @@
           
           <p>To have a website on the internet, it needs to be <b>hosted</b> on a web server. Think of hosting as the piece of land where your website “lives.” Just like you need land to build a house, you need a server to store your website’s files and make them available to people on the internet.</p>
           
-          <p>There are plenty of companies that offer website hosting services, like <b>HostGator</b> or <b>BlueHost</b>, which rent out space on their servers so your site can be available online 24/7.</p>
+          <p>There are plenty of companies that offer website hosting services, like <a href="">HostGator</a> or <a href="">BlueHost</a>, which rent out space on their servers so your site can be available online 24/7.</p>
           
         </section>
         
@@ -484,6 +484,16 @@
           
           <p><b>Fun fact:</b> HTML inspired the name of the original Hotmail email service, launched in 1996. The founders cleverly included “HTML” in the name to highlight the web-based nature of their email platform.</p>
           
+        </section>
+        
+        <section>
+          
+          <h3>CSS</h3>
+          
+          <p>CSS stands for Cascading Style Sheets. While HTML is used to create the <b>structure</b> of a webpage, CSS is what makes it <b>look good.</b> It controls the design—things like fonts, colors, spacing, and layout.</p>
+          
+          <p>CSS also determines how a website appears on different devices, ensuring it looks great whether you’re viewing it on a desktop, tablet, or phone.</p>
+            
         </section>
         
         <section>
