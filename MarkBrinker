@@ -608,6 +608,14 @@
           <p>I’ll be updating this glossary over time, so if there’s a term I missed or one you think should be added, let me know in the comments below. Thanks for reading! 😉</p>
           
         </section>
+        
+        <section>
+          
+          <button><a href=""><img src="facebook-icon.png"> SHARE</a></button>
+          <button><a href=""><img src="bluesky-icon.png"> POST</a></button>
+          <button><a href=""><img src="linkedin-icon.png"> SHARE</a></button>
+          
+        </section>
 
     </main>
     <!-- Website Main -->
