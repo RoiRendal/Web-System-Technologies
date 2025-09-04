@@ -369,6 +369,228 @@
         
         <section>
           
+          <h2>Additional Terminology Of Modern Websites</h2>
+          
+        </section>
+        
+        <section>
+          
+          <h3>WordPress</h3>
+          
+          <p>WordPress powers <a href="">millions of websites</a> worldwide and is one of the most popular tools for building and managing websites.</p>
+          
+          <p>Think of WordPress as the operating system for your website—similar to how Windows runs on a PC, macOS on a MacBook, or iOS on an iPhone. It’s a content management system (CMS) that allows you to easily add, remove, or update content without needing advanced technical skills.</p>
+          
+          <p>Here’s how WordPress works:</p>
+          
+          <ul>
+            
+            <li><b>Themes:</b> A WordPress theme controls how your site looks. It’s what transforms WordPress into a functional website. There are thousands of themes—some free, some paid—and most can be customized to match your company’s brand. Using a theme is far faster (and cheaper) than building a website entirely from scratch, like we had to do back in the early 2000s.</li>
+            <li><b>Plugins:</b> Plugins add functionality to your site, much like apps on your phone. With tens of thousands of WordPress plugins available, you can add features like contact forms, image galleries, site security, shopping carts—pretty much anything you can imagine.</li>
+            
+          </ul>
+          
+          <p>Thanks to themes and plugins, WordPress makes it possible to build a custom, high-quality website for a fraction of what it used to cost.</p>
+          
+        </section>
+
+        <section>
+          
+          <h3>WordPress Page vs. WordPress Post</h3>
+          
+          <p>This takes a bit of explaining, so I wrote a whole piece on the similarities and differences between WordPress pages and posts, which you can find <a href="">here</a>.</p>
+          
+        </section>
+        
+        <section>
+          
+          <h3>Hosting</h3>
+          
+          <p>To have a website on the internet, it needs to be <b>hosted</b> on a web server. Think of hosting as the piece of land where your website “lives.” Just like you need land to build a house, you need a server to store your website’s files and make them available to people on the internet.</p>
+          
+          <p>There are plenty of companies that offer website hosting services, like <b>HostGator</b> or <b>BlueHost</b>, which rent out space on their servers so your site can be available online 24/7.</p>
+          
+        </section>
+        
+        <section>
+          
+          <h3>Caching</h3>
+          
+          <p>Caching is the process of storing a temporary version of a website or webpage to help it <b>load faster.</b> When someone visits your website, a cached version can be delivered quickly instead of forcing the browser to fetch everything from scratch.</p>
+          
+          <p>Caching improves site speed, reduces the load on your web server, and makes for a smoother experience for visitors—especially for those who come back to your site repeatedly.</p>
+          
+        </section>
+        
+        <section>
+          
+          <h3>Domain Name (aka URL)</h3>
+          
+          <p>A domain name is the address people type into their browser to visit a website—like Amazon.com, CNN.com, or markbrinker.com.</p>
+          
+          <p>Behind the scenes, every website is identified by an IP address, which is a long string of numbers like 143.398.884.342. But let’s be honest—who can remember all those digits? That’s why domain names exist: they’re easier to remember and use words instead of numbers to identify a website.</p>
+          
+          <p><b>Fun fact:</b> The term URL stands for Uniform Resource Locator — it’s the technical name for a web address.</p>
+          
+        </section>
+        
+        <section>
+          
+          <h3>Domain Registrar</h3>
+          
+          <p>A domain registrar is where you purchase and register your domain name—kind of like getting a license plate for your car from the DMV.</p>
+          
+          <p>There are plenty of domain registrars online, such as <a href="">NameCheap.com</a> or GoDaddy. Once you register your domain name, it’s officially yours (as long as you keep renewing it).</p>
+          
+        </section>
+        
+        <section>
+          
+          <h3>301 Redirect</h3>
+          
+          <p>A 301 redirect is a way to permanently send visitors (and search engines) from one URL to another. It’s often used when you update your website’s structure, change a page’s URL, or move your site to a new domain.</p>
+          
+          <p>For example, if you change a page’s URL from yourwebsite.com/<b>services</b> to yourwebsite.com/<b>our-services</b>, a 301 redirect ensures anyone visiting the old link will automatically land on the new page. It also tells search engines to pass along any SEO value from the old URL to the new one.</p>
+          
+        </section>
+        
+        <section>
+          
+          <h3>404 Error Page</h3>
+          
+          <p>A 404 error page appears when someone tries to visit a page on your website that doesn’t exist — either because the page was deleted, the URL was mistyped, or the link is broken.</p>
+          
+          <p>While a default 404 page simply tells visitors the page can’t be found, a well-designed 404 page can do more. It can include helpful links, a search bar, or even a friendly message to guide visitors back to where they want to go, instead of leaving them frustrated.</p>
+          
+        </section>
+        
+        <section>
+          
+          <h3>DNS</h3>
+          
+          <p>DNS stands for <b>Domain Name System</b>. Think of it as the phone book of the internet.</p>
+          
+          <p>As mentioned earlier, humans use domain names (like markbrinker.com) instead of long, hard-to-remember IP addresses. When you type a domain name into your web browser, your internet service provider (ISP) connects to a <b>domain name server</b>—one of many located around the world. The DNS server quickly looks up the IP address linked to that domain name and routes you to the website you requested.</p>
+          
+          <p>resume here</p>
+          
+        </section>
+        
+        <section>
+          
+          <h3>HTML</h3>
+          
+          <p>HTML stands for Hyper Text Markup Language, and it’s the standard language used to create websites and web pages. Invented in 1991 by <a href="">Tim Berners-Lee</a> (the creator of the World Wide Web), HTML allows developers to structure content on a webpage using tags for elements like headings, paragraphs, images, and links.</p>
+          
+          <p><b>Fun fact:</b> HTML inspired the name of the original Hotmail email service, launched in 1996. The founders cleverly included “HTML” in the name to highlight the web-based nature of their email platform.</p>
+          
+        </section>
+        
+        <section>
+          
+          <h3>Website Builder</h3>
+          
+          <p>A <b>website builder</b> is an all-in-one tool that allows you to design and build a website without needing to write code. Website builders typically feature drag-and-drop editors, making them easy to use, even for those with minimal technical experience.</p>
+          
+          <p>Popular examples of website builders include Wix and Squarespace. These platforms simplify the entire process by bundling everything you need—like hosting, design, and domain management—into one system.</p>
+          
+          <p>A <b>page builder</b>, on the other hand, is slightly different. Page builders are tools (often plugins) that allow you to create and customize individual pages on platforms like WordPress. For example, tools like <a href="">Elementor</a> and <a href="">Thrive Architect</a> are WordPress page builders that let you design pages with a drag-and-drop editor, while still leveraging the flexibility of WordPress.</p>
+          
+          <p>Website builders are great for quickly getting a website up and running because they limit complexity. However, they can lack the customization and scalability of page builders on open platforms like WordPress.</p>
+          
+          <p><b>Note:</b> While drag-and-drop tools are a game changer, you’ll still need a basic understanding of HTML and CSS for fine-tuning your website. Sorry to rain on the parade. 😮</p>
+          
+        </section>
+        
+        <section>
+          
+          <h3>Mobile Responsive</h3>
+          
+          <p>A mobile responsive website automatically morphs to fit the shape and size of the screen it’s being viewed on—whether that’s a phone, tablet, or desktop. It uses CSS to adjust the layout, navigation, and font sizes seamlessly, so the site is easy to use and read on any device.</p>
+          
+          <p><a href="">More than 50%</a> of all web traffic comes from mobile devices, so mobile responsive design has become the standard for modern websites. If you have to pinch and zoom to make text readable, that’s a sure sign the website is <b>not</b> mobile friendly.</p>
+          
+        </section>
+        
+        <section>
+          
+          <h3>SSL</h3>
+          
+          <p>SSL stands for Secure Socket Layer. An SSL certificate encrypts the data sent between a website’s server and your browser, ensuring that hackers can’t intercept or read it.</p>
+          
+          <p>You can tell if a website is secure by looking for the padlock icon in your browser’s address bar:</p>
+          
+          <ul>
+            
+            <li>A <b>non-secure</b> website starts with <b>“http”</b> (Hyper Text Transfer Protocol).</li>
+            <li>A <b>secure</b> website starts with <b>“https”</b>, where the “s” stands for <b>secure</b>.</li>
+            
+          </ul>
+          
+          <p>SSL certificates have become standard for <b>all websites</b>, even those that don’t collect sensitive information like contact details or payment data. Visitors expect to see the SSL padlock icon, and web browsers often flag non-SSL websites with warnings that can make users feel nervous or unsafe.</p>
+          
+        </section>
+        
+        <section>
+          
+          <h3>SEO</h3>
+          
+          <p>SEO stands for Search Engine Optimization. It’s the process of configuring your website to get free traffic from search engine results pages (often referred to as SERPs).</p>
+          
+          <p>SEO can seem like a large and complex topic—and it is—but at its core, it’s about creating content that search engines value and people actually want. To get ranked in the organic search listings, you need to produce content that:</p>
+          
+          <ul>
+            
+            <li>Is high quality and genuinely helpful.</li>
+            <li>People actually want to read, share, or link to.</li>
+            <li>Is properly formatted on your site (known as On-Page SEO).</li>
+            
+          </ul>
+          
+          <p>That said, there’s a lot of confusion and wildly unrealistic expectations around SEO. It’s important to know that SEO takes time, effort, and strategy to be effective.</p>
+          
+          <p>If you’re looking for more in-depth information about SEO, I highly recommend checking out the work of <a href="">Brian Dean</a>, one of the leading experts in this space.</p>
+          
+        </section>
+        
+        <section>
+          
+          <h3>Google Analytics</h3>
+          
+          <p><a href="">Google Analytics</a> is a free service from Google that provides statistics about your website—like how many visitors you’re getting, which pages they’re viewing, and how long they’re spending on each page.</p>
+          
+          <p>To use Google Analytics, all you need to do is install a small tracking script on your website, and you’re good to go.</p>
+          
+          <p>By collecting this data, Google Analytics removes the guesswork and helps you see what’s working on your website and what isn’t.</p>
+          
+        </section>
+        
+        <section>
+          
+          <h3>Email Service Provider (ESP)</h3>
+          
+          <p>An <b>email service provider</b> (sometimes called an email management service or EMS) helps you build, manage, and communicate with your list of email subscribers.</p>
+          
+          <p>Popular examples of email service providers include MailChimp, Aweber (which we use), Constant Contact, ConvertKit, GetResponse, and ActiveCampaign.</p>
+          
+          <p>Using an email service provider offers several key benefits:</p>
+          
+          <ul>
+            
+            <li><b>Automation:</b> Users can add or remove themselves from your list automatically. You can also set up emails to send based on specific user actions (e.g., signing up for your list).</li>
+            <li><b>Scalability:</b> Send a single broadcast email to hundreds or thousands of subscribers with just a click—something that’s nearly impossible to do manually.</li>
+            <li><b>Deliverability:</b> Email service providers are “whitelisted,” so your messages are less likely to be flagged as spam. If you try sending too many emails in quick succession with tools like Outlook or Gmail, your ISP might block them.</li>
+            <li><b>Compliance:</b> Helps you stay compliant with email regulations like the <a href="">CAN-SPAM Act</a> to avoid penalties.</li>
+            <li><b>Reporting & Tracking:</b> See valuable stats like email open rates, link clicks, and which subject lines perform best.</li>
+            
+          </ul>
+          
+          <p>An email service provider makes email marketing more efficient, reliable, and measurable, helping you connect with your audience at scale.</p>
+          
+        </section>
+        
+        <section>
+          
             <article>
               
                 <p>There are lots of pieces to think about when creating a webpage. Here’s a quick guide to the most basic elements.</p>
