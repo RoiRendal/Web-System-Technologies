@@ -644,18 +644,17 @@
             
             <!-- Right Section -->
             <article>
-                <h2>Resources</h2>
+              
+                <h3>GET TO KNOW US</h3>
                 
-                <ul>
-                    <li><a href="">Jobs at Bethel</a></li>
-                    <li><a href="">Calendar</a></li>
-                    <li><a href="">Library</a></li>
-                    <li><a href="">Questions & Comments</a></li>
-                    <li><a href="">Title IX Concerns</a></li>
-                    <li><a href="">Course Catalogs</a></li>
-                </ul>
+                <p><a href="">About</a></p>
+                <p><a href="">Blog</a></p>
+                <p><a href="">Contact Us</a></p>
+                <p><a href="">Portfolio</a></p>
+                <p><a href="">Pricing</a></p>
+                <p><a href="">Testimonials</a></p>
                 
-                <button><a href=""><h2>Support Bethel</h2></a></button>
+                <p><a href="">Watch the 7-min video: <b>Why No One’s Calling</b></a></p>
                 
             </article>
             <!-- Right Section -->
