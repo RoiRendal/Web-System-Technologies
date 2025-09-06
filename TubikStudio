@@ -80,6 +80,8 @@
             “The</h1> details are not the details. They make the design,” Charles Eames once said, and that has never stopped to be true. Starting to design a web page, we have to consider what it should consist of to solve the task set for it and be both usable and beautiful. Our today’s article is devoted right to those vital details that create an effective web page. Let’s briefly review what elements can be essential for a typical <b><a href="">web page</a></b>, what impact each element has, and how it contributes to the general user experience. Packed with plenty of web design examples.
             </p>
         
+            <section>
+            
             <h2>Header</h2>
             
             <p>
@@ -139,6 +141,10 @@
             
             <h5><i><b><a href="">Bennett Tea</a></b> website uses a stylish and minimalist sticky header, with the brand element in the center, links to core pages in the left part, and a shopping cart button in the right corner.</i></h5>
 
+            </section>
+            
+            <section>
+                          
             <h2>CTA Button</h2>
 
             <p>
@@ -156,7 +162,9 @@
             <video src="sample-cta2.mp4"></video>
 
             <h5>The web page for <b><a href="">Mayple</a></b> is formed of several sections and uses a set of consistent call-to-action buttons for each combining them effectively with the same CTA in the header, this way allowing visitors to move on from different points of their browsing the page.</h5>
-    
+            </section>
+            
+            <section>
             <h2>Hero Section</h2>
 
             <p>
@@ -172,7 +180,8 @@
             <video src=""></video>
 
             <p>Hero section for the home page on the <a href="">Energizou website</a> catches attention and impresses visitors with a beautiful animated illustration.</p>
-
+            </section>
+            
             <h2>Footer</h1>
 
             <p>
