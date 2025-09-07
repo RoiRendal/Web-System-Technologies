@@ -13,27 +13,33 @@
 
     <header>
 
+        <!-- Upper Section -->
         <section>
 
             <img src="halo-lab.png">
 
         </section>
+        <!-- Upper Section -->
+
+        <!-- Mid Section -->
+        <section>
 
             <button>SERVICES <img src="arrow-down.png"></button>
             <a href="">PROJECTS</a>
             <a href="">DEDICATED TEAM</a>
             <button>RESOURCES <img src="arrow-down.png"></button>
             <a href="">PRICING</a>
-
-        <section>
             
         </section>
+        <!-- Mid Section -->
 
+        <!-- Lower Section -->
         <section>
 
             <button>CONTACT US <img src="pen-paper.png"></button>
             
         </section>
+        <!-- Lower Section -->
 
     </header>
 
@@ -41,7 +47,7 @@
 
     <main>
 
-
+        <h5><a href="">ALL BLOG POSTS</a> / <a href="">DESIGN</a></h5>
 
     </main>
 
