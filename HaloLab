@@ -9,15 +9,71 @@
 
 <body>
     
+    <!-- Reference: https://www.markbrinker.com/parts-of-a-website -->
+
     <header>
+
+        <section>
+
+        </section>
+
+        <section>
+            
+        </section>
+
+        <section>
+            
+        </section>
 
     </header>
 
+
+
     <main>
+
+
 
     </main>
 
+
+
     <footer>
+
+        <!-- Upper Section -->
+        <section>
+            
+            <article>
+
+            </article>
+
+            <article>
+                
+            </article>
+
+            <article>
+                
+            </article>
+
+        </section>
+        <!-- Upper Section -->
+
+        <!-- Lower Section -->
+        <section>
+            
+            <article>
+
+            </article>
+
+            <article>
+                
+            </article>
+
+            <article>
+                
+            </article>
+
+        </section>
+        <!-- Lower Section -->
 
     </footer>
 
