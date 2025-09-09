@@ -743,13 +743,39 @@ design team, Halo Lab is happy to help. For more detailed information,
             
             <article>
 
+                <button><img src="clutch-button.png"></button>
+                <button><img src="good-firms-button.png"></button>
+                <button><img src="designrush-button.png"></button>
+                <button><img src="dribbble-button.png"></button>
+                <button><img src="webflow-button.png"></button>
+                <button><img src="prismic-button.png"></button>
+                <button><img src="sanity-button.png"></button>
+
             </article>
 
             <article>
                 
+                <button><h4>Show all services <img src="plus-minus-icon.png"></h4></button>
+                <button><h4>Show all technologies <img src="plus-minus-icon.png"></h4></button>
+                <button><h4>Show all industries <img src="plus-minus-icon.png"></h4></button>
+
             </article>
 
             <article>
+
+                <article>
+
+                    <p>© Halo Lab. All rights reserved</p>
+
+                </article>
+
+                <article>
+
+                    <a href=""><p>Manage Cookies</p></a>
+                    <a href=""><p>Terms and Conditions</p></a>
+                    <a href=""><p>Privacy Policy</p></a>
+
+                </article>
                 
             </article>
 
