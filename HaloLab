@@ -418,101 +418,232 @@ personality.
             </p>
 
             <img src="sample-progress-indicator.png">
-            <h5></h5>
+            <h5>Progress indicator let users know at what stage they are now</h5>
 
         </section>
 
         <section>
 
-            <h3><li></li></h3>
+            <h3><li>Favicon</li></h3>
 
             <p>
-
+There is another small yet mighty tool — favicon. That is a tiny icon in
+your browser tab next to a website’s name. It might seem insignificant,
+but it’s actually a little powerhouse in the world of web design that
+allows users to get a quick visual connection with your brand while they
+are browsing.
             </p>
 
-            <img src="sample-.png">
-            <h5></h5>
+            <p>
+A favicon is your website’s mini calling card that makes a big impression.
+When a user has dozens of tabs open (and let’s be honest, who doesn’t?),
+your favicon is what helps your website stand out in that crowded sea. It’s
+a subtle and effective way to keep your brand visible and recognizable.
+            </p>
+
+            <p>
+Creating a favicon is not just about shrinking your logo into a tiny square.
+It needs to be clear, identifiable, and reflective of your brand’s identity.
+The best favicons are simple, bold, and use limited color palettes. Remember,
+it must be recognizable even at a glance and on a small scale.
+            </p>
+
+            <img src="sample-favicon.png">
+            <h5>A memorable favicon improves brand awareness</h5>
 
         </section>
 
         <section>
 
-            <h3><li></li></h3>
+            <h3><li>Tags</li></h3>
 
             <p>
-
+Another versatile element on your webpage is tags. They’re like those sticky
+notes you put on documents to remind you what’s what. On a website, they
+help categorize content, making it a breeze for users to find what they’re
+interested in. Say you’re running a blog. In that case, tags help your visitors
+quickly click through to related topics they’re curious about.
             </p>
 
-            <img src="sample-.png">
-            <h5></h5>
+            <p>
+They’re also a big win for SEO. Search engines love well-organized content,
+and tags are a straightforward way to keep things neat and tidy. Plus, they
+give users a peek into what your content is all about. But here’s the
+key — don’t go overboard. Have you ever felt overwhelmed by a bunch of random
+sticky notes slapped everywhere? It’s the same with tags. Keep them relevant,
+specific, and to the point.
+            </p>
+
+            <img src="sample-tags.png">
+            <h5>Strategically placed tags enhance website usability</h5>
 
         </section>
 
         <section>
 
-            <h3><li></li></h3>
+            <h3><li>Links</li></h3>
 
             <p>
-
+Links are your way of guiding visitors around your site and even beyond it.
+Whether it’s internal URLs that keep customers exploring your site or
+external ones that offer additional information, each is a helpful signpost.
+The main idea is to make it clear and purposeful.
             </p>
 
-            <img src="sample-.png">
-            <h5></h5>
+            <p>
+You probably clicked on a link, thinking it would take you somewhere, and
+ended up in a completely unexpected place. Frustrating, right? That’s why
+your links should always be descriptive and give a good idea of where they
+lead. And let’s not forget about making them stand out. They have to be
+visible but not so flashy that they disrupt the flow of your content.
+            </p>
+
+            <img src="sample-links.png">
+            <h5>Easy-to-spot links are more likely to be clicked on</h5>
 
         </section>
 
         <section>
 
-            <h3><li></li></h3>
+            <h3><li>Quality images</li></h3>
 
             <p>
-
+Let’s shine a spotlight on quality images. They speak volumes without
+saying a word, set the tone, evoke emotions, and connect with your audience
+on a deeper level. Such an essential element can showcase your products,
+share moments, and tell the brand’s story.
             </p>
 
-            <img src="sample-.png">
-            <h5></h5>
+            <p>
+Check whether each image is in line with your identity, as the wrong
+visuals can lead to confusion among users. Additionally, be mindful of
+image size and loading speed. Nobody would care for even the most beautiful
+picture if it takes forever to load, and keeping the balance in that
+case is key.
+            </p>
+
+            <p>
+And remember, diversity and authenticity in your imagery can make your
+website feel more inclusive and relatable. It’s about showing real people,
+real emotions, and real scenarios. Stock photos can be handy, but they must
+be chosen carefully to avoid that staged, generic look.
+            </p>
+
+            <img src="sample-quality-images.png">
+            <h5>Quality images should tie in with your brand message</h5>
 
         </section>
 
         <section>
 
-            <h3><li></li></h3>
+            <h3><li>Typography</li></h3>
 
             <p>
-
+We’re close to the finish line, and the next element is typography.
+First up, font choice. This can be a fun playground but also a tricky
+field. Whenever you are sleek and modern or quirky and whimsical,
+select the best font that reflects your brand’s personality. Moreover,
+avoid using too many different ones. Stick to a few that complement
+each other and keep it consistent across your website.
             </p>
 
-            <img src="sample-.png">
-            <h5></h5>
+            <p>
+Then there’s readability. Think about font size, color contrast, and
+spacing to make text readable. Also, consider the mood your typography
+sets, as different fonts evoke different feelings. A serif font might
+feel traditional and trustworthy, while a sans-serif could be seen as
+clean and modern.
+            </p>
+
+            <p>
+And let’s not forget about special fonts for headings and accents — they’re
+like the highlighters of your text, drawing attention to key areas.
+            </p>
+
+            <img src="sample-typography.png">
+            <h5>Typography should be readable regardless of the background</h5>
 
         </section>
 
         <section>
 
-            <h3><li></li></h3>
+            <h3><li>White space</li></h3>
 
             <p>
-
+Time to talk about <a href="">white space</a>, often the invisible element of great
+web design. And while it might seem like “empty” space, it’s anything
+but. It gives users a break, helps them process information, and guides
+them from one element to another.
             </p>
 
-            <img src="sample-.png">
-            <h5></h5>
+            <p>
+It doesn’t necessarily have to be white, by the way. It’s all about the
+unmarked space, regardless of color or background. This is the area between
+graphics, margins, gutters, fields between columns, and even the place
+between lines of text.
+            </p>
+
+            <p>
+And balance is critical. Too little white space can turn your site into
+a cramped one, but too much might make it seem empty or unfinished. Try
+to find that sweet spot where design elements and white space complement
+one another harmoniously.
+            </p>
+
+            <img src="sample-white-space.png">
+            <h5>Strategically used white space complements a site’s aesthetic</h5>
 
         </section>
 
         <section>
 
-            <h3><li></li></h3>
+            <h3><li>Sidebar</li></h3>
 
             <p>
-
+Finally, a sidebar is a trusty sidekick to your website’s main content
+with extra information or functionality. It can house anything from
+navigation menus, social media links, and author bios to call-to-action
+buttons like share, search bars, and upcoming events. Typically, it sticks
+to the left or right side of a web page and presents a vertical list of options.
             </p>
 
-            <img src="sample-.png">
-            <h5></h5>
+            <p>
+A well-designed sidebar should be a natural extension of a website tailored
+to fit the content of your page. For example, a search bar might be
+included within a blog post, recent posts, or tags. On a product page,
+it may show related items or customer reviews. The key is relevance. Your
+sidebar should always offer something valuable and pertinent to the visitor’s
+current interest.
+            </p>
+
+            <img src="sample-sidebar.png">
+            <h5>A sidebar provides users with additional navigation </h5>
 
         </section>
         </ol>
+
+        <section>
+
+            <h3>Final point</h3>
+
+            <p>
+And there we have it — a comprehensive journey through the essential elements
+of a webpage, from top to bottom. We’ve explored how each component, including
+favicons, breadcrumbs, videos, cards, and many more, shapes an identity for a
+cohesive and user-friendly website. And most importantly, how to implement them
+correctly.
+            </p>
+
+            <p>
+So, as you begin your web design journey, keep these elements in mind. Use
+them wisely, blend them creatively, and watch your website transform into a
+vibrant, living entity that connects with your audience and stands out in
+the digital world. If you’d like to leave this responsibility entirely to a
+design team, Halo Lab is happy to help. For more detailed information,
+<a href="">contact us</a> at any time! 
+            </p>
+
+        </section>
 
     </main>
 
