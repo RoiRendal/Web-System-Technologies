@@ -46,8 +46,149 @@
 
 
     <main>
+        
+        <section>
 
-        <h5><a href="">ALL BLOG POSTS</a> / <a href="">DESIGN</a></h5>
+            <h5><a href="">ALL BLOG POSTS</a> / <a href="">DESIGN</a></h5>
+
+            <h1>19 vital parts for your website page to maximize user engagement</h1>
+
+            <h5><img src=""> 10 JAN</h5>
+            <h5><img src="scroll.png"> SCROLL</h5>
+
+        </section>
+
+        <section>
+
+            <h3>
+Chances are, there’s been a time when you’ve clicked through endless
+links, scrolling page after page in a seemingly futile quest for the right information.
+This journey often ended with you exiting the website as empty-handed as when you started,
+right? To avoid falling into this trap, knowing the essential digital elements can
+completely transform your project’s digital presence.
+            </h3>
+
+            <article>
+
+                <img src="ValentineBoyev.png">
+                <p><a href="">Valentine Boyev</a></p>
+                <p><a href="">Valentine Boyev</a></p>
+
+            </article>
+
+        </section>
+
+        <section>
+
+            <p>
+Web design and page structure play a big role in encouraging users to
+click and scroll. But what if there was a blueprint to ensure that every single
+one of your web pages is visitor-friendly? Well, you’re in the right place, as
+today we’ll break down 19 essential elements of a successful website and share
+insider tips on how to use them properly.
+            </p>
+
+            <h3>Why do you need to think about page structure</h3>
+
+            <p>
+Let’s start by defining what a webpage is, as it is not the same as a website.
+Simply put, it’s an individual page with specific URLs, different content, and
+unique images, where every element plays a crucial role in engaging the visitor.
+When talking about its structure, we’re addressing how all these pieces fit
+together to make something that’s good to look at and makes sense to use.
+            </p>
+
+            <p>
+The organized webpage is the foundation of your online presence. It’s what
+guides your visitors through the content, like invisible signposts pointing to
+where they want to go. Without a well-thought-out structure, even the most
+visually stunning page can leave users lost and confused, resulting in a higher
+bounce rate and lower engagement.
+            </p>
+
+        </section>
+
+        <ol>
+        <section>
+
+            <h3><li>Header</li></h3>
+
+            <p>
+First up is the header or a site menu. Sitting right at the top, it is the
+primary thing anyone sees, no matter which page they land on. This element is
+strategically important, allowing users to jump from one page to the next
+without hindrance. It often includes a logo, main navigation, and sometimes a
+contact button or social media links.
+            </p>
+
+            <p>
+Your header is a site guide that ensures visitors know exactly where they are
+and how to find what they’re looking for. But here’s the thing — while it
+might be tempting to pack the header with as much information as possible,
+it’s crucial not to overload it. This approach helps in finding the perfect
+balance between providing essential information and maintaining simplicity.
+            </p>
+
+            <img src="sample-header.png">
+            <h5>A visible and informative header presents a site’s content</h5>
+
+        </section>
+
+        <section>
+
+            <h3><li>CTA button</li></h3>
+
+            <p>
+Next on the list is the Call to Action (CTA) buttons that guide your
+visitors on what to do next, whether it’s “Buy Now,” “Learn More,” or
+“Sign Up.” Their main aim is to turn a passive user into an active one while
+improving conversions for a particular page.
+            </p>
+
+            <p>
+However, it’s not just about slapping a button anywhere. A good CTA subtly
+stands out and doesn’t scream for attention — it’s clear, compelling, and
+inviting. Placement is key, too. Put it in a spot where it’s easy for visitors
+to find, and check out whether it makes sense in the context of your page.
+            </p>
+
+            <p>
+Remember, the CTA button is your chance to convert a casual visitor into a
+customer or subscriber. Though a small element, it packs a powerful punch.
+Think of it as the finishing touch that brings the whole page together and
+sets the stage for your user’s next step.
+            </p>
+
+            <img src="sample-cta-button.png">
+            <h5>A clear CTA button leads users to the next step</h5>
+
+        </section>
+
+        <section>
+
+            <h3><li>Hero section</li></h3>
+
+            <p>
+Moving on, let’s talk about the hero section. Typically found below the
+header, this element is your chance to make an impactful statement. That
+section usually combines an eye-catching image or video with a powerful message
+and is often complemented by a CTA button. Its purpose is to grab attention,
+deliver a key message, and set the tone for the rest of the site.
+            </p>
+
+            <p>
+This component needs to connect with your visitors immediately, telling them
+what your site is about and what they can expect from it. It’s a balancing
+act — you want to be bold, captivating, clear and concise. When done right,
+the hero section can make the user experience better, drawing people in and
+motivating them to explore further.
+            </p>
+
+            <img src="sample-hero-section.png">
+            <h5>A hero section captivates at first glance</h5>
+
+        </section>
+        </ol>
 
     </main>
 
