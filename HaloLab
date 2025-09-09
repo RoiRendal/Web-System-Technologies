@@ -219,104 +219,205 @@ one, reflecting the professionalism and comprehensiveness of your site.
 
         <section>
 
-            <h3><li></li></h3>
+            <h3><li>Slider</li></h3>
 
             <p>
-
+Up next is the slider. This element uses the technique of a slideshow or
+carousel and is the dynamic storyteller of your webpage that rotates a series
+of images, text, or videos across the screen. It showcases multiple pieces
+of content and thus saves space on your layout.
             </p>
 
-            <img src="sample-.png">
-            <h5></h5>
+            <p>
+Whether it’s the latest offers, featured products, or key messages, the
+slider lets you present content in an engaging, easily digestible format.
+As a result, your visitors feel excited after an interactive experience
+while the metrics of their time spent on the site grow.
+            </p>
+
+            <img src="sample-slider.png">
+            <h5>Compactly presented media via slider saves space on a page</h5>
 
         </section>
 
         <section>
 
-            <h3><li></li></h3>
+            <h3><li>Search</li></h3>
 
             <p>
-
+Another useful component is a search function tucked away in the header
+or an easily accessible place. With this element, visitors have a quick
+way to find what they’re looking for. It simplifies browsing content within
+a website and displays relevant information based on the search query.
             </p>
 
-            <img src="sample-.png">
-            <h5></h5>
+            <p>
+Whether your site is packed with loads of media or a wide range of products,
+a search field helps cut through the clutter. This is a handy tool for
+e-commerce sites or content-heavy platforms where navigating through
+pages and categories can get overwhelming.
+            </p>
+
+            <img src="sample-search.png">
+            <h5>A search field greatly improves website navigation</h5>
 
         </section>
 
         <section>
 
-            <h3><li></li></h3>
+            <h3><li>Menu and navigation</li></h3>
 
             <p>
-
+When we think about easy navigation across a webpage, the menu is the
+main element that comes to mind. This component guides visitors through
+the site to help them understand what you offer at a glance and how to
+get there.
             </p>
 
-            <img src="sample-.png">
-            <h5></h5>
+            <p>
+There are various menu types to choose from, each serving different design 
+needs and user experiences. The classic horizontal menu runs across the
+top of your page, offering straightforward access to major sections.
+Then, there’s the sidebar menu, tucked to the side, perfect for sites
+with extensive navigation. Dropdown menus reveal additional options
+under each main category, while drop-up menus work similarly but open upwards.
+            </p>
+
+            <p>
+For sites with a wide range of topics or products, the mega menu provides
+a comprehensive view of all options in one large panel. And let’s not
+forget the hamburger menu, a space-saving icon that expands to reveal
+navigation links. Each type has its advantages, and the choice largely
+depends on the layout and content of your webpage.
+            </p>
+
+            <img src="sample-menu-nav.png">
+            <h5>An interactive menu visually attracts the user</h5>
 
         </section>
 
         <section>
 
-            <h3><li></li></h3>
+            <h3><li>Breadcrumbs</li></h3>
 
             <p>
-
+Next in line is breadcrumbs. No, we’re not talking about the kind you
+find in the kitchen, but the digital steps that help guide visitors
+through your website. It is important to note that they don’t replace
+the primary menu we discussed earlier but instead present a second
+level of navigation and streamline the platform’s usability.
             </p>
 
-            <img src="sample-.png">
-            <h5></h5>
+            <p>
+Typically appearing at the top of a page, this navigational feature
+shows users their current location on your site and how they got there.
+It leaves behind a digital footprint to help users backtrack or navigate
+to other sections without having to hit the “back” button multiple times.
+            </p>
+
+            <img src="sample-breadcrumbs.png">
+            <h5>Breadcrumbs are a visual guide for users</h5>
 
         </section>
 
         <section>
 
-            <h3><li></li></h3>
+            <h3><li>Forms</li></h3>
 
             <p>
-
+Whether it’s for signing up for a newsletter, making a purchase, or
+getting in touch, forms are the go-to method for visitors to interact and
+communicate with your site. They are essential to gather information,
+simplify transactions, or get feedback. This element encourages users to
+send information to the system or server while allowing you to build up
+a customer base.
             </p>
 
-            <img src="sample-.png">
-            <h5></h5>
+            <p>
+It should ask for only the necessary information, making the process quick
+and hassle-free. Think about the forms you’ve enjoyed filling out — they
+probably had clear labels, were easy to navigate, and didn’t ask for your
+life story. That’s what you must aim for. Place forms in an accessible way,
+making them intuitive, with a clear call to action, like “Submit,” “Send,”
+or “Sign Up.”
+            </p>
+
+            <img src="sample-forms.png">
+            <h5>A form improves interactions between your website and its users</h5>
 
         </section>
 
         <section>
 
-            <h3><li></li></h3>
+            <h3><li>Cards</li></h3>
 
             <p>
-
+Move on to the next element — cards. Each section typically contains an
+image or icon, a brief description, and perhaps a call to action, all
+enclosed in a small, defined area. From products and blog posts to user
+profiles and more, cards organize a chunk of content types in a compact,
+visually appealing package. The beauty of using these components lies in
+their simplicity and clarity. They allow users to quickly scan for
+information, making the browsing experience more efficient and enjoyable.
             </p>
 
-            <img src="sample-.png">
-            <h5></h5>
+            <img src="sample-cards.png">
+            <h5>A card system visually improves the content structure</h5>
 
         </section>
 
         <section>
 
-            <h3><li></li></h3>
+            <h3><li>Videos</li></h3>
 
             <p>
-
+Media materials are a big deal. When was the last time you scrolled past a
+video without at least a curious glance? They draw us in, keep us hooked, and
+sometimes, before we know it, we’ve learned something new or found a product
+we can’t live without.
             </p>
 
-            <img src="sample-.png">
-            <h5></h5>
+            <p>
+So, why not harness the power of video on your website? Use it to show off
+your products, give a sneak peek into your services, or share some client
+testimonials. But while videos are great, they’ve got to be good. No one wants
+to sit through a grainy, hard-to-hear, or boring video. Your visitors are
+there for a reason, and videos should reflect that.
+            </p>
+
+            <img src="sample-videos.png">
+            <h5>Videos make users stay on a website longer</h5>
 
         </section>
 
         <section>
 
-            <h3><li></li></h3>
+            <h3><li>Progress indicator</li></h3>
 
             <p>
-
+Have you ever filled out a form or completed a task online and wondered,
+“How much longer is this going to take?” That’s where a progress
+indicator comes in handy. This small but helpful element gives users
+a visual cue of where they are in the process and how much is left. It
+is especially useful for multi-step processes like online shopping
+checkouts, surveys, or registration forms.
             </p>
 
-            <img src="sample-.png">
+            <p>
+Think of it as the digital equivalent of breadcrumbs leading to the finish
+line. It can be as simple as a series of dots, a numbered list, or a bar
+that fills up as you move forward. Whatever style you choose, make sure
+it’s clear and consistent.
+            </p>
+
+            <p>
+But why stop at just being functional? Get creative with it! Use colors,
+animations, or even fun little messages that pop up as the user progresses.
+This makes the experience more engaging and can also reflect your brand’s
+personality.
+            </p>
+
+            <img src="sample-progress-indicator.png">
             <h5></h5>
 
         </section>
